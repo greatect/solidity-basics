@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity ^0.7.0;
 
+// 0x4346e6c46c61CAdDF2908458b885E6d4093a5358 on Ropsten testnet
 contract SimpleCreditSystem_PracticeOnly{
 	struct Credit{
 		uint fulfill;
